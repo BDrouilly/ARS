@@ -1,0 +1,4 @@
+ars_manager:
+    resource: "@ARSManagerBundle/Resources/config/routing.yml"
+    prefix:   /
+
